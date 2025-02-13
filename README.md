@@ -117,6 +117,8 @@ trainer.push_to_hub()
 - Train on a custom dataset with domain-specific text
 
 ---
+![Evaluation Finally](https://github.com/AhemdMahmoud/FineSumm/blob/main/evaaluation%20%D8%A7%D8%AE%D9%8A%D8%B1%D8%A7.png)
+
 
 ## 🤝 Contributing
 Feel free to contribute by submitting issues or pull requests. 🚀
