@@ -124,8 +124,12 @@ trainer.push_to_hub()
 
 
 
-## 🤝 Contributing
+## 🤝 Contributing 
 Feel free to contribute by submitting issues or pull requests. 🚀
+
+[Click here to open the notebook in Google Colab](https://www.kaggle.com/code/mkagglec/notebook074ca7c832/edit)
+
+[Click here to open the notebook in Google Colab](https://colab.research.google.com/drive/1vaJZIbUqucrMTia3eI1FsUWg7IivssHG#scrollTo=MQVNXQ8FCoRE)
 
 ---
 
